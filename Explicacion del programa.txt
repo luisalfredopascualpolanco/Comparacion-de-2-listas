@@ -1,0 +1,3 @@
+Explicacion del programa:
+
+Es una app de consola que pide llenar dos listas de 15 valores y luego las compara
